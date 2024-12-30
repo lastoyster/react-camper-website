@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 30s linear;
+  height: 50%;
+  padding: 5px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 20vh;
+  width: 100%;
+  color: white;
+  top: 0;
+  position: fixed;
+}
+
+.h2 {
+  font-size: 120%;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.View {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20vh;
+}
+
+.siteListContainer {
+  overflow: auto;
+  left: 0;
+  width: 30%;
+}
+
+.mapContainer {
+  position: fixed;
+  right: 0;
+  width: 70%;
+  /*margin-top: 10px*/
+}
+
+.site {
+  list-style-type: none;
+}
+
+.Name {
+  display: table;
+  margin-left: left;
+}
+
+.Price {
+  display: table;
+  margin-left: left;
+}
+
+.Button {
+  display: table;
+  margin-left: left;
+}

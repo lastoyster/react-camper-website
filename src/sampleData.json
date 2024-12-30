@@ -1,0 +1,149 @@
+{
+    "databases": {
+      "siteData": {
+        "sites": {
+          "Pangong Lake Camp": {
+            "name": "Pangong Lake Camp",
+            "latitude": 33.727689,
+            "longitude": 78.889624,
+            "price": 15,
+            "siteid": 0
+          },
+          "Rishikesh Riverside Camp": {
+            "name": "Rishikesh Riverside Camp",
+            "latitude": 30.105499,
+            "longitude": 78.292827,
+            "price": 10,
+            "siteid": 1
+          },
+          "Munnar Tea Estate Camp": {
+            "name": "Munnar Tea Estate Camp",
+            "latitude": 10.084293,
+            "longitude": 77.060547,
+            "price": 12,
+            "siteid": 2
+          },
+          "Jaisalmer Desert Camp": {
+            "name": "Jaisalmer Desert Camp",
+            "latitude": 26.916667,
+            "longitude": 70.916667,
+            "price": 20,
+            "siteid": 3
+          },
+          "Coorg Hilltop Camp": {
+            "name": "Coorg Hilltop Camp",
+            "latitude": 12.337612,
+            "longitude": 75.806747,
+            "price": 14,
+            "siteid": 4
+          },
+          "Spiti Valley Camp": {
+            "name": "Spiti Valley Camp",
+            "latitude": 32.246693,
+            "longitude": 78.007318,
+            "price": 18,
+            "siteid": 5
+          },
+          "Tso Moriri Camp": {
+            "name": "Tso Moriri Camp",
+            "latitude": 32.997818,
+            "longitude": 78.299514,
+            "price": 25,
+            "siteid": 6
+          },
+          "Meghalaya Riverside Camp": {
+            "name": "Meghalaya Riverside Camp",
+            "latitude": 25.512826,
+            "longitude": 91.880814,
+            "price": 8,
+            "siteid": 7
+          },
+          "Wayanad Wildlife Camp": {
+            "name": "Wayanad Wildlife Camp",
+            "latitude": 11.685358,
+            "longitude": 76.132505,
+            "price": 10,
+            "siteid": 8
+          },
+          "Nainital Eco Camp": {
+            "name": "Nainital Eco Camp",
+            "latitude": 29.391920,
+            "longitude": 79.454223,
+            "price": 12,
+            "siteid": 9
+          },
+          "Ziro Valley Camp": {
+            "name": "Ziro Valley Camp",
+            "latitude": 27.589972,
+            "longitude": 93.832792,
+            "price": 15,
+            "siteid": 10
+          },
+          "Andaman Beachside Camp": {
+            "name": "Andaman Beachside Camp",
+            "latitude": 11.623377,
+            "longitude": 92.726486,
+            "price": 20,
+            "siteid": 11
+          },
+          "Pushkar Desert Camp": {
+            "name": "Pushkar Desert Camp",
+            "latitude": 26.489116,
+            "longitude": 74.554127,
+            "price": 10,
+            "siteid": 12
+          },
+          "Lonavala Hill Camp": {
+            "name": "Lonavala Hill Camp",
+            "latitude": 18.752512,
+            "longitude": 73.405440,
+            "price": 8,
+            "siteid": 13
+          },
+          "Chopta Snow Camp": {
+            "name": "Chopta Snow Camp",
+            "latitude": 30.345413,
+            "longitude": 79.046389,
+            "price": 12,
+            "siteid": 14
+          },
+          "Alleppey Backwater Camp": {
+            "name": "Alleppey Backwater Camp",
+            "latitude": 9.497396,
+            "longitude": 76.338848,
+            "price": 14,
+            "siteid": 15
+          },
+          "Kanatal Adventure Camp": {
+            "name": "Kanatal Adventure Camp",
+            "latitude": 30.404671,
+            "longitude": 78.392091,
+            "price": 15,
+            "siteid": 16
+          },
+          "Dharamshala Woods Camp": {
+            "name": "Dharamshala Woods Camp",
+            "latitude": 32.209372,
+            "longitude": 76.323817,
+            "price": 10,
+            "siteid": 17
+          },
+          "Bhandardara Lakeside Camp": {
+            "name": "Bhandardara Lakeside Camp",
+            "latitude": 19.523366,
+            "longitude": 73.751803,
+            "price": 12,
+            "siteid": 18
+          },
+          "Agumbe Rainforest Camp": {
+            "name": "Agumbe Rainforest Camp",
+            "latitude": 13.509675,
+            "longitude": 75.091885,
+            "price": 18,
+            "siteid": 19
+          }
+        }
+      }
+    }
+  }
+  
